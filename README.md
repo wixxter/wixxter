@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wixxter
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me wixxters@gmail.com
 
 <!---
